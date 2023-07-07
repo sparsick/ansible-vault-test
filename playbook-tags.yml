@@ -1,6 +1,6 @@
 - hosts: localhost
   connection: local
-    tasks:
+  tasks:
     - name: Print Tag
       ansible.builtin.debug:
         msg: "Tag is set"
