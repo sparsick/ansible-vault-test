@@ -1,0 +1,3 @@
+- src: https://github.com/sparsick/ansible-molecule-tags/
+  version: master
+  name: test

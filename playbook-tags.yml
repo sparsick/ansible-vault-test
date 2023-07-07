@@ -5,7 +5,7 @@
       ansible.builtin.debug:
         msg: "Tag is set"
       tags:
-        - test
+      - test
     - name: Print No Tag
       ansible.builtin.debug:
         msg: "Tag is not set"
